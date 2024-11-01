@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lKjltiZSTrRKOjNJel7faQTI2pj9DSf6Lspb12D2YMo=",
+  "Source": "BarBash.Api",
+  "BasePath": "_content/BarBash.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
